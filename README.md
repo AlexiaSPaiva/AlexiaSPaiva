@@ -23,10 +23,10 @@ I care about tests, accessibility and things working on real devices, including 
 
 ### Tools I work with
 
-**Languages:** TypeScript, JavaScript, Python, PHP, SQL, R
-**Front end:** React, Vite, Tailwind CSS, Material UI
-**Back end & data:** Laravel, REST APIs, Postgres (Supabase), IndexedDB
-**Quality & delivery:** Vitest, Playwright, GitHub Actions, Vercel, Git Flow
+- **Languages:** TypeScript, JavaScript, Python, PHP, SQL, R
+- **Front end:** React, Vite, Tailwind CSS, Material UI
+- **Back end & data:** Laravel, REST APIs, Postgres (Supabase), IndexedDB
+- **Quality & delivery:** Vitest, Playwright, GitHub Actions, Vercel, Git Flow
 
 ### A bit of background
 
